@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PAINT-54308] [PACT] Remove Activity Types From Dropdown</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://globaljira.roche.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PAINT-54308]&nbsp;<a href="https://globaljira.roche.com/browse/PAINT-54308">[PACT] Remove Activity Types From Dropdown</a>
+            <span class="subText">
+               Created: 10/Dec/24                   &nbsp;Updated: 01/Apr/25
+
+                                                    &nbsp;Resolved: 24/Mar/25
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Resolved</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://globaljira.roche.com/secure/BrowseProject.jspa?id=13859">Patient Access</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                                        <a title="2025 Mar 28"
+                href="https://globaljira.roche.com/issues/?jql=project%3D13859%20AND%20%22fixVersion%22%3D46538%20ORDER%20BY%20priority%20ASC"
+            >2025 Mar 28</a>                        </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Critical
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="fitzpate" id="word_reporter_fitzpate" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate">Eric Fitzpatrick</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="fitzpate" id="word_assignee_fitzpate" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate">Eric Fitzpatrick</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-3174200-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            FS_Archive, PO_Approved, PO_Pre-Approved, SQA_Required, team#MC                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://globaljira.roche.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    image-2025-03-05-13-22-15-425.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    image-2025-03-05-13-25-04-620.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/word.gif" height="16" width="16" border="0" alt="Microsoft Word" role="presentation">
+                    PAINT-54308_ Remove Activity Types From Dropdown.docx &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue Links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Cloners</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                is cloned by
+            </td>
+            <td>
+                <a href="https://globaljira.roche.com/browse/PAINT-55582">
+                     <strike>PAINT-55582</strike>                 </a>
+            </td>
+            <td>
+                [Update] [PACT] Remove Activity Types...
+            </td>
+            <td>
+                Resolved
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
+                <td id="customfield_10107-3174200-value" class="value" bgcolor="#ffffff" width="80%">    3
+</td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10102-3174200-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-9" href="https://globaljira.roche.com/browse/PAINT-6057">
+        Deliver Services | BI/PA
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10106-3174200-value" class="value" bgcolor="#ffffff" width="80%">2025-s1.5-Motley Crew</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned BSA:</b></td>
+                <td id="customfield_11596-3174200-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?ownerId=JIRAUSER70706&amp;avatarId=15870" alt="Olasumbo Sola-Ilori" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="solailo1" id="user_cf_solailo1">Olasumbo Sola-Ilori</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned DEV:</b></td>
+                <td id="customfield_11432-3174200-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?avatarId=10335" alt="Kamil Ganski" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="ganskik" id="user_cf_ganskik">Kamil Ganski</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned SQA:</b></td>
+                <td id="customfield_11597-3174200-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?ownerId=JIRAUSER70865&amp;avatarId=16120" alt="Divya Jammula" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="jammulad" id="user_cf_jammulad">Divya Jammula</span></span>
+    </td>
+            </tr>
+                                                                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Approved By:</b></td>
+                <td id="customfield_11921-3174200-value" class="value" bgcolor="#ffffff" width="80%">      fitzpate
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Approved Date/Time:</b></td>
+                <td id="customfield_14378-3174200-value" class="value" bgcolor="#ffffff" width="80%">            <span title="24/Mar/25 2:21 AM"><time class="livestamp allow-future" datetime="2025-03-24T02:21:45+0100">24/Mar/25 2:21 AM</time></span>
+    </td>
+            </tr>
+                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_11984-3174200-value" class="value" bgcolor="#ffffff" width="80%">    Motley_Crew</td>
+            </tr>
+                                                                                                </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h2><a name=""></a><font color="#de350b">Story updated by </font><font color="#de350b"><a href="https://globaljira.roche.com/browse/PAINT-55582" title="[Update] [PACT] Remove Activity Types From Dropdown" class="issue-link" data-issue-key="PAINT-55582"><del>PAINT-55582</del></a></font></h2>
+<h2><a name=""></a><font color="#172b4d">User Story:</font></h2>
+
+<p><font color="#172b4d">As a <b>System,</b> I want specific Co-Pay activity types eliminated from the activity list so that users will not create those activities.</font></p>
+<h2><a name=""></a><font color="#172b4d">Current State</font></h2>
+
+<p>The following exist in the activity type list when creating a Co-Pay Assistance Task</p>
+<ul>
+	<li>Referred Customer to Co-pay Card Vendor</li>
+	<li>Referred Customer to CAF</li>
+	<li>Send INO Letter</li>
+</ul>
+
+
+<h2><a name=""></a><font color="#172b4d">Future State</font></h2>
+
+<p>The following <b>do not exist</b> in the activity type list when creating a Co-Pay Assistance Task</p>
+<ul>
+	<li>Referred Customer to Co-pay Card Vendor</li>
+	<li>Referred Customer to CAF</li>
+	<li>Send INO Letter</li>
+</ul>
+
+
+<h2><a name=""></a><font color="#172b4d">Text Color Guide:</font></h2>
+<ul>
+	<li><font color="#172b4d">Text in red has been added as an update to a previously developed Story and AC. The previously developed story and AC should be listed in either the "Prerequisite stories" or the "As-Is state" and "To-Be state" sections.</font></li>
+	<li><font color="#172b4d">Text in orange has been added as a mid-sprint update during the current sprint.</font></li>
+</ul>
+
+
+<h2><a name=""></a><font color="#172b4d">Compliance Impact:  This section is REQUIRED and will be completed by DEV Team (&amp;BSA)</font></h2>
+
+<p><font color="#172b4d">Any New Objects or New Fields or New Picklist added as part of this story? <b>No</b></font><br/>
+<font color="#172b4d"><b>If Yes</b>, complete the gSheet by filling in all the information in the TAB allocated to the Team</font><br/>
+<font color="#172b4d"><a href="https://docs.google.com/spreadsheets/d/1z5pcpA0539bWO5RwtBHpWEGMzCCM1BpWZFnhbZoLcZY/edit#gid=1491914318" class="external-link" target="_blank" rel="nofollow noopener">PACT New Fields / Objects / Picklist Inventory</a></font></p>
+<h2><a name=""></a><font color="#172b4d">Assumptions:</font></h2>
+<hr />
+<h2><a name=""></a><font color="#172b4d">Acceptance Criteria: </font></h2>
+
+<p><b>Acceptance Criteria 1: Activity Does Not Display in Activity Type List</b></p>
+
+<p>Given: User with GNE-CM-CR or GNE-CM-GATCF profile is creating or editing a Co-Pay Assistance Task</p>
+
+<p>When: User selects the Activity Type dropdown</p>
+
+<p>Then: The following activity types do not display in the dropdown</p>
+<ul>
+	<li>Referred Customer to Co-pay Card Vendor</li>
+	<li>Referred Customer to CAF</li>
+	<li>Send INO Letter</li>
+</ul>
+
+
+<p>And: User is unable to create a task with the activity types above</p>
+
+<p>Or: User is unable to change an existing task to the activity types above</p>
+
+<p>  </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-6513698"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="fitzpate" id="word_commented_fitzpate" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate">Eric Fitzpatrick</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">24/Mar/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-6513698"><td bgcolor="#ffffff">
+            <p>PO DEMO: Approved </p>
+        </td></tr>
+                <tr id="comment-header-6483573"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="jammulad" id="word_commented_jammulad" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=jammulad">Divya Jammula</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">14/Mar/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-6483573"><td bgcolor="#ffffff">
+            <p>Hi Team,</p>
+
+<p>Testing has been completed and is working as expected, please find the attached document for reference</p>
+
+<p><span class="nobr"><a href="https://globaljira.roche.com/secure/attachment/2616143/2616143_PAINT-54308_+Remove+Activity+Types+From+Dropdown.docx" title="PAINT-54308_ Remove Activity Types From Dropdown.docx attached to PAINT-54308">PAINT-54308_ Remove Activity Types From Dropdown.docx<sup><img class="rendericon" src="https://globaljira.roche.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span></p>
+
+<p>cc: <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=shchasna" class="user-hover" rel="shchasna">Aksana Shchasnaya</a>, <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1" class="user-hover" rel="solailo1">Olasumbo Sola-Ilori</a> , <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate" class="user-hover" rel="fitzpate">Eric Fitzpatrick</a> </p>
+        </td></tr>
+                <tr id="comment-header-6446813"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="ganskik" id="word_commented_ganskik" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=ganskik">Kamil Ganski</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/Mar/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-6446813"><td bgcolor="#ffffff">
+            <p>This is the only place where 'Referred Customer to CAF' and 'Referred Customer to CAF'</p>
+
+<p>values are used in the code. I think, we can easily delete them from the apex code.</p>
+
+<p>CC: <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=lesnyn" class="user-hover" rel="lesnyn">Norbert Lesny</a> <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=witczaka" class="user-hover" rel="witczaka">Agnieszka Rucinska</a> </p>
+
+<p><span class="image-wrap" style=""><img src="https://globaljira.roche.com/secure/attachment/2600885/2600885_image-2025-03-05-13-22-15-425.png" height="290" width="735" style="border: 0px solid black" /></span><span class="image-wrap" style=""><img src="https://globaljira.roche.com/secure/attachment/2600896/2600896_image-2025-03-05-13-25-04-620.png" height="334" width="747" style="border: 0px solid black" /></span></p>
+        </td></tr>
+                <tr id="comment-header-6434089"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="solailo1" id="word_commented_solailo1" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1">Olasumbo Sola-Ilori</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">01/Mar/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-6434089"><td bgcolor="#ffffff">
+            <p>Hi <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate" class="user-hover" rel="fitzpate">Eric Fitzpatrick</a> ,</p>
+
+<p>Kindly review / PO pre-approve story</p>
+
+<p>Thanks</p>
+        </td></tr>
+                <tr id="comment-header-6431554"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="solailo1" id="word_commented_solailo1" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1">Olasumbo Sola-Ilori</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/Feb/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-6431554"><td bgcolor="#ffffff">
+            <p>Thanks <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=witczaka" class="user-hover" rel="witczaka">Agnieszka Rucinska</a> </p>
+        </td></tr>
+                <tr id="comment-header-6430159"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="witczaka" id="word_commented_witczaka" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=witczaka">Agnieszka Rucinska</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/Feb/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-6430159"><td bgcolor="#ffffff">
+            <ul>
+	<li>Referred Customer to Co-pay Card Vendor - not used, just in TaskService</li>
+	<li>Referred Customer to CAF - present in code, should be deleted, but just in filter, no logic</li>
+	<li>Send INO Letter - not used</li>
+</ul>
+
+        </td></tr>
+            </table>
+Generated at Wed Apr 09 10:00:33 CEST 2025 by Divya Jammula using Jira 9.11.2#9110002-sha1:a4cc5ff040b70da0f2b22013ede8c2b2c19f3ae5.
+
+</body>
+</html>

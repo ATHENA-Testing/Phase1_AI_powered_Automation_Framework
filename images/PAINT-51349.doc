@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PAINT-51349] [Technical-UPDATE] UAPI: Map GPF Status &quot;Inconclusive&quot; for Status Query Outcome</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://globaljira.roche.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PAINT-51349]&nbsp;<a href="https://globaljira.roche.com/browse/PAINT-51349">[Technical-UPDATE] UAPI: Map GPF Status &quot;Inconclusive&quot; for Status Query Outcome</a>
+            <span class="subText">
+               Created: 23/May/24                   &nbsp;Updated: 19/Feb/25
+
+                                                    &nbsp;Resolved: 11/Feb/25
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Resolved</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://globaljira.roche.com/secure/BrowseProject.jspa?id=13859">Patient Access</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                                        <a title="Universal API"
+                href="https://globaljira.roche.com/issues/?jql=project%3D13859%20AND%20%22component%22%3D25723%20ORDER%20BY%20priority%20ASC"
+            >Universal API</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                                        <a title="2025 Feb 14"
+                href="https://globaljira.roche.com/issues/?jql=project%3D13859%20AND%20%22fixVersion%22%3D46532%20ORDER%20BY%20priority%20ASC"
+            >2025 Feb 14</a>                        </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Technical Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Minor
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="seguerre" id="word_reporter_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="seguerre" id="word_assignee_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Fixed
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-3171357-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            IG_Change_Required, SQA_Required, Technical_Story, UniversalAPI, team#MC                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Not Specified
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Time Spent:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Not Specified
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Original Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Not Specified
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://globaljira.roche.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File" role="presentation">
+                    51349-GPF Enrollment REQUEST-RitxforOnc_02112025.json &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File" role="presentation">
+                    51349-GPF Enrollment RESPONSE-RitxforOnc_02112025.json &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File" role="presentation">
+                    51349-Status Query REQUEST-GPF RitxforOnc_02112025.json &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    image-2022-06-29-10-25-36-322.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    image (23).png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/zip.gif" height="16" width="16" border="0" alt="Zip Archive" role="presentation">
+                    PAINT-51349_Technical-UPDATE UAPI Map GPF Status Inconclusive for Status Query Outcome_Bundles.zip &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    Screenshot 2024-06-24 at 12.11.23 PM.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File" role="presentation">
+                    Template-TailorMed GPF Enrollment-Itovebi_012825.json &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue Links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Associated bugs and stories</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                related to
+            </td>
+            <td>
+                <a href="https://globaljira.roche.com/browse/PAINT-55097">
+                     <strike>PAINT-55097</strike>                 </a>
+            </td>
+            <td>
+                TASK:  IG: Add GPF Status &quot;Inconclusi...
+            </td>
+            <td>
+                Resolved
+            </td>
+        </tr>
+                                                <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Cloners</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                clones
+            </td>
+            <td>
+                <a href="https://globaljira.roche.com/browse/PAINT-49927">
+                     <strike>PAINT-49927</strike>                 </a>
+            </td>
+            <td>
+                [Placeholder] [Technical-UPDATE] UAPI...
+            </td>
+            <td>
+                Closed
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                is cloned by
+            </td>
+            <td>
+                <a href="https://globaljira.roche.com/browse/PAINT-55097">
+                     <strike>PAINT-55097</strike>                 </a>
+            </td>
+            <td>
+                TASK:  IG: Add GPF Status &quot;Inconclusi...
+            </td>
+            <td>
+                Resolved
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sub-Tasks:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Key</b><br/>
+                </td>
+                <td>
+                    <b>Summary</b><br/>
+                </td>
+                <td>
+                    <b>Type</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Assignee</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://globaljira.roche.com/browse/PAINT-54997">PAINT-54997</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://globaljira.roche.com/browse/PAINT-54997"> CoverageEligibilityResponse= inconcl...</a>
+                    </td>
+                    <td>
+                        Bug (sub-task)
+                    </td>
+                    <td>
+                        Closed
+                    </td>
+                    <td>
+                                                     Divya Jammula  &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
+                <td id="customfield_10107-3171357-value" class="value" bgcolor="#ffffff" width="80%">    5
+</td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10102-3171357-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-9" href="https://globaljira.roche.com/browse/PAINT-24054">
+        Universal API - GET Status API
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10106-3171357-value" class="value" bgcolor="#ffffff" width="80%">2025-s1.2-Motley Crew</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned BSA:</b></td>
+                <td id="customfield_11596-3171357-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?ownerId=JIRAUSER70706&amp;avatarId=15870" alt="Olasumbo Sola-Ilori" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="solailo1" id="user_cf_solailo1">Olasumbo Sola-Ilori</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned DEV:</b></td>
+                <td id="customfield_11432-3171357-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?avatarId=10341" alt="Juliusz Gasecki" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="gaseckj1" id="user_cf_gaseckj1">Juliusz Gasecki</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned SQA:</b></td>
+                <td id="customfield_11597-3171357-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?ownerId=JIRAUSER70865&amp;avatarId=16120" alt="Divya Jammula" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="jammulad" id="user_cf_jammulad">Divya Jammula</span></span>
+    </td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Approved By:</b></td>
+                <td id="customfield_11921-3171357-value" class="value" bgcolor="#ffffff" width="80%">      seguerre
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Approved Date/Time:</b></td>
+                <td id="customfield_14378-3171357-value" class="value" bgcolor="#ffffff" width="80%">            <span title="11/Feb/25 8:54 PM"><time class="livestamp allow-future" datetime="2025-02-11T20:54:53+0100">11/Feb/25 8:54 PM</time></span>
+    </td>
+            </tr>
+                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_11984-3171357-value" class="value" bgcolor="#ffffff" width="80%">    Motley_Crew</td>
+            </tr>
+                                                                                                            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h2><a name="Problem%3A"></a>Problem:</h2>
+
+<p>For GPF enrollments, vendors are only receiving "Approved" or "Denied" for GPF eligibility statuses; they're not receiving status query response if the GPF eligibility status = 'Inconclusive'.  In PACT, this is the same process - HCPs are not fax'd GPF outcome if eligibility status = "Inconclusive".   We mimicked this process for UAPI. </p>
+
+<p>Since vendors  (and HCPs submitting via vendors who are not registered PACT or MPS accounts) do not have visibility into PACT, they don't know why they're not receiving a status when they do Status Query.   This is not a good customer experience for both HCP and vendors; vendors end up contacting us to find out why they are not getting responses only to find out that it's inconclusive.  We will continue to advise vendors even if they receive inconclusive status, that it can be later changed to approved or denied, so they need a mechanism to recheck statuses.</p>
+
+<p><b>NOTE:</b>  Navify confirmed that 'inconclusive' status is a passthrough value.</p>
+
+<p> </p>
+<h2><a name="TechnicalRequirement%3A"></a>Technical Requirement:</h2>
+<ol>
+	<li>add 'inconclusvie' value to Coverage Value value set: <a href="https://uapi-fhirapi-doc-root.s3.amazonaws.com/ValueSet-uapi-Coverage-Outcome.html" class="external-link" target="_blank" rel="nofollow noopener">https://uapi-fhirapi-doc-root.s3.amazonaws.com/ValueSet-uapi-Coverage-Outcome.html</a></li>
+	<li>note that it comes under CoverageEligibilityResponse extension on Status Query Response bundle.</li>
+</ol>
+
+
+<p><span class="image-wrap" style=""><a id="2154065_thumb" href="https://globaljira.roche.com/secure/attachment/2154065/2154065_Screenshot+2024-06-24+at+12.11.23+PM.png" title="Screenshot 2024-06-24 at 12.11.23 PM.png" file-preview-type="image" file-preview-id="2154065" file-preview-title="Screenshot 2024-06-24 at 12.11.23 PM.png"><img src="https://globaljira.roche.com/secure/thumbnail/2154065/_thumb_2154065.png" style="border: 0px solid black" role="presentation"/></a></span></p>
+
+<p> </p>
+<h2><a name="Testing%3A"></a>Testing:</h2>
+<ul>
+	<li>Submit UAPI GPF enrollment and set GPF eligibility status on SR = Inconclusive                                                                                                                                                                             </li>
+	<li>Submit Status Query Request using TailorMed clientID in QA <a href="https://docs.google.com/spreadsheets/d/1BwqdV2YYnqlFpybCebXzYj-5lcl1VrROOfdRraxvbyg/edit?gid=986969023#gid=986969023" class="external-link" target="_blank" rel="nofollow noopener">refer to cells D19-E19</a></li>
+	<li>In Status Query Request: use 'usual' identifier for Organization</li>
+	<li>use this itovebi GPF enrollment template for TailorMed GPF enrollment.   TailorMed is vendor and the Organization/practitioner already has a set identifier in Navify system. Just change the uuids for bundle, patient, organization, practitioner.  For patient: change patient name and email and change the numbers in the existing patient identifier. Important to make these changes so it goes to Navify as a new patient.</li>
+	<li>Outcome value should be 'Inconclusive'.  Refer to CoverageEligibilityResponse section in Status Query Response. Example below currently shows "Approved"</li>
+</ul>
+
+
+<p> </p>
+
+<p><span class="image-wrap" style=""><a id="2154065_thumb" href="https://globaljira.roche.com/secure/attachment/2154065/2154065_Screenshot+2024-06-24+at+12.11.23+PM.png" title="Screenshot 2024-06-24 at 12.11.23 PM.png" file-preview-type="image" file-preview-id="2154065" file-preview-title="Screenshot 2024-06-24 at 12.11.23 PM.png"><img src="https://globaljira.roche.com/secure/thumbnail/2154065/_thumb_2154065.png" style="border: 0px solid black" role="presentation"/></a></span></p>
+
+<p> </p>
+<ul>
+	<li>Test evidence should include:
+	<ul>
+		<li>GPF enrollment</li>
+		<li>Status Query Request</li>
+		<li>Status Query Response</li>
+	</ul>
+	</li>
+	<li>Reference: Implementation Guide sample Status Query Response for GPF: <a href="https://uapi-fhirapi-doc-root.s3.amazonaws.com/Bundle-uapi-query-response-1-gpf.json.html" class="external-link" target="_blank" rel="nofollow noopener">https://uapi-fhirapi-doc-root.s3.amazonaws.com/Bundle-uapi-query-response-1-gpf.json.html</a></li>
+</ul>
+
+
+<p> </p>
+<h2><a name=""></a><font color="#ff8b00">Follow-On Story:</font></h2>
+
+<p><font color="#ff8b00"><a href="https://globaljira.roche.com/browse/PAINT-55097" title="TASK:  IG: Add GPF Status &quot;Inconclusive&quot; to IG Coverage Outcome Value Set" class="issue-link" data-issue-key="PAINT-55097"><del>PAINT-55097</del></a></font></p>
+
+<p> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-5407475"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="seguerre" id="word_commented_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">11/Feb/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5407475"><td bgcolor="#ffffff">
+            <p><b>PO Approved!</b></p>
+
+<p> </p>
+
+<p>Thanks <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=jammulad" class="user-hover" rel="jammulad">Divya Jammula</a> <span class="error">Unable to render embedded object: File (  One observation on the Status Query Request bundle... serviceRequest code = &quot;patientfoundation&quot; doesn&#39;t match serviceRequest code = &quot;patient foundation&quot; in the Enrollment bundle.  They should always match and can be either &quot;gpf&quot; or &quot;patient foundation&quot;.  Looks like using TailorMed clientID in QA postman is the key in getting a response back) not found.</span></p>
+
+<p> </p>
+
+<p><b>Jean's QA data:</b><br/>
+PAT-1794924<br/>
+SR 06884351<br/>
+<span class="nobr"><a href="https://globaljira.roche.com/secure/attachment/2154061/2154061_51349-GPF+Enrollment+REQUEST-RitxforOnc_02112025.json" title="51349-GPF Enrollment REQUEST-RitxforOnc_02112025.json attached to PAINT-51349">51349-GPF Enrollment REQUEST-RitxforOnc_02112025.json<sup><img class="rendericon" src="https://globaljira.roche.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> <br/>
+<span class="nobr"><a href="https://globaljira.roche.com/secure/attachment/2154063/2154063_51349-Status+Query+REQUEST-GPF+RitxforOnc_02112025.json" title="51349-Status Query REQUEST-GPF RitxforOnc_02112025.json attached to PAINT-51349">51349-Status Query REQUEST-GPF RitxforOnc_02112025.json<sup><img class="rendericon" src="https://globaljira.roche.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> <br/>
+<span class="nobr"><a href="https://globaljira.roche.com/secure/attachment/2154062/2154062_51349-GPF+Enrollment+RESPONSE-RitxforOnc_02112025.json" title="51349-GPF Enrollment RESPONSE-RitxforOnc_02112025.json attached to PAINT-51349">51349-GPF Enrollment RESPONSE-RitxforOnc_02112025.json<sup><img class="rendericon" src="https://globaljira.roche.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> <br/>
+ </p>
+
+<p>cc: <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1" class="user-hover" rel="solailo1">Olasumbo Sola-Ilori</a> , <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=shchasna" class="user-hover" rel="shchasna">Aksana Shchasnaya</a> </p>
+        </td></tr>
+                <tr id="comment-header-5407474"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="jammulad" id="word_commented_jammulad" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=jammulad">Divya Jammula</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">11/Feb/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5407474"><td bgcolor="#ffffff">
+            <p>Hi Team,</p>
+
+<p>Testing has been completed and is working as expected. Please find the attached bundles for reference<br/>
+ <span class="nobr"><a href="https://globaljira.roche.com/secure/attachment/2154064/2154064_PAINT-51349_Technical-UPDATE+UAPI+Map+GPF+Status+Inconclusive+for+Status+Query+Outcome_Bundles.zip" title="PAINT-51349_Technical-UPDATE UAPI Map GPF Status Inconclusive for Status Query Outcome_Bundles.zip attached to PAINT-51349">PAINT-51349_Technical-UPDATE UAPI Map GPF Status Inconclusive for Status Query Outcome_Bundles.zip<sup><img class="rendericon" src="https://globaljira.roche.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> </p>
+
+<p>cc: <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=shchasna" class="user-hover" rel="shchasna">Aksana Shchasnaya</a>, <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1" class="user-hover" rel="solailo1">Olasumbo Sola-Ilori</a>, <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre" class="user-hover" rel="seguerre">Jean Seguerre</a></p>
+        </td></tr>
+                <tr id="comment-header-5407473"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="seguerre" id="word_commented_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">29/Jan/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5407473"><td bgcolor="#ffffff">
+            <p>Hi  <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=jammulad" class="user-hover" rel="jammulad">Divya Jammula</a>,<br/>
+I just remembered that I created a GPF enrollment today and processed through GE already.  It has valid digital consent on it already and I validated the Required Doc for PSF.  So once Norbert is done developing, this patient is ready for testing. All you need to do is change the GPF status on SR to 'inconclusive' and go from there.  </p>
+
+<p><b>In QA:  PAT-1791590, SR 06876133</b><br/>
+Thanks, Jean</p>
+
+<p><a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=gillalap" class="user-hover" rel="gillalap">Prem Gillala</a>, <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=atukulab" class="user-hover" rel="atukulab">Binduja Atukula</a></p>
+        </td></tr>
+                <tr id="comment-header-5407472"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="seguerre" id="word_commented_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">29/Jan/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5407472"><td bgcolor="#ffffff">
+            <p>Hi <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=lesnyn" class="user-hover" rel="lesnyn">Norbert Lesny</a> , Updated story.  </p>
+
+<p>Item#3 in my 2024-JUN-24 comments indicate that we're to compare the <a href="https://uapi-fhirapi-doc-root.s3.amazonaws.com/Bundle-uapi-query-response-1-gpf.json.html" class="external-link" target="_blank" rel="nofollow noopener">sample status (response) in IG</a> to Status Query Response in production.  Are you able to get a sample status query response in production?  If they differ we should ask KW what is the correct format?   Do you recall why we're doing this? I thought we updated everything in Q2 of last year including the IG sample.</p>
+
+<p>Feel free to make updates in the story.</p>
+
+<p><a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=jammulad" class="user-hover" rel="jammulad">Divya Jammula</a>, I included how this should be tested and provided template GPF enrollment to be used.  You'll need to use TailorMed clientId in QA; otherwise, you will get "Organization Not Found" error.  You'll need to let <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=sharmp45" class="user-hover" rel="sharmp45">Piyush Sharma</a>know when you are ready to test this, as he will need to disable TailorMed ssl policy in QA.</p>
+
+<p><a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1" class="user-hover" rel="solailo1">Olasumbo Sola-Ilori</a>, I can provide KT on the STatus query Request/Response process. </p>
+
+<p>Thanks, Jean</p>
+        </td></tr>
+                <tr id="comment-header-5407471"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="seguerre" id="word_commented_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/Jan/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5407471"><td bgcolor="#ffffff">
+            <p><b>1/28/25</b>:  Email sent to Navify &amp; PDV team to see if new 'inconclusive' value is passthrough or if they need to update on their end.</p>
+        </td></tr>
+                <tr id="comment-header-5407470"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="seguerre" id="word_commented_seguerre" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=seguerre">Jean Seguerre</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">24/Jun/24</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5407470"><td bgcolor="#ffffff">
+            <p><b>Notes from 5/9/24 tech discussion:</b></p>
+
+<p>1- add 'inconclusvie' value to Coverage Value value set: <a href="https://uapi-fhirapi-doc-root.s3.amazonaws.com/ValueSet-uapi-Coverage-Outcome.html" class="external-link" target="_blank" rel="nofollow noopener">https://uapi-fhirapi-doc-root.s3.amazonaws.com/ValueSet-uapi-Coverage-Outcome.html</a></p>
+
+<p>2- note that it comes under CoverageEligibilityResponse extension</p>
+
+<p>3- note to compare Status Query Response(GPF) production bundle to IG sample of Status and make sure that they are the same. If not, ask KW what it should be</p>
+
+<p>4- Notify Navify of the change to make sure it's just a pass thru for them</p>
+
+<p> </p>
+
+<p><span class="image-wrap" style=""><img src="https://globaljira.roche.com/secure/attachment/2154065/2154065_Screenshot+2024-06-24+at+12.11.23+PM.png" style="border: 0px solid black" /></span></p>
+        </td></tr>
+            </table>
+Generated at Wed Apr 09 10:02:08 CEST 2025 by Divya Jammula using Jira 9.11.2#9110002-sha1:a4cc5ff040b70da0f2b22013ede8c2b2c19f3ae5.
+
+</body>
+</html>

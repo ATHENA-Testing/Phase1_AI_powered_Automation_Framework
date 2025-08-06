@@ -1,0 +1,58 @@
+Here are some test cases for searching for iPad Pro devices on Amazon:
+
+**Test Case 1: Successful Search for iPad Pro Devices**
+
+* Preconditions: User is logged in to their Amazon account
+* Steps:
+	1. Go to the Amazon search bar and type "iPad Pro"
+	2. Press Enter or click on the search icon
+	3. Verify that relevant results for iPad Pro devices are displayed
+	4. Filter the results by price, brand, or customer reviews
+	5. Add one of the first few results to cart
+* Expected Result: The user is able to find and add an iPad Pro device to their cart successfully
+
+**Test Case 2: Searching with Multiple Keywords**
+
+* Preconditions: User is logged in to their Amazon account
+* Steps:
+	1. Go to the Amazon search bar and type "iPad Pro 12.9 inch"
+	2. Press Enter or click on the search icon
+	3. Verify that relevant results for iPad Pro devices with a screen size of 12.9 inches are displayed
+	4. Filter the results by price, brand, or customer reviews
+	5. Add one of the first few results to cart
+* Expected Result: The user is able to find and add an iPad Pro device with a screen size of 12.9 inches to their cart successfully
+
+**Test Case 3: Searching for Related Products**
+
+* Preconditions: User is logged in to their Amazon account
+* Steps:
+	1. Go to the Amazon search bar and type "iPad Pro accessories"
+	2. Press Enter or click on the search icon
+	3. Verify that relevant results for iPad Pro accessories are displayed
+	4. Filter the results by price, brand, or customer reviews
+	5. Add one of the first few results to cart
+* Expected Result: The user is able to find and add an iPad Pro accessory to their cart successfully
+
+**Test Case 4: Searching with Special Characters**
+
+* Preconditions: User is logged in to their Amazon account
+* Steps:
+	1. Go to the Amazon search bar and type "iPad Pro + wireless charging case"
+	2. Press Enter or click on the search icon
+	3. Verify that relevant results for iPad Pro devices with a wireless charging case are displayed
+	4. Filter the results by price, brand, or customer reviews
+	5. Add one of the first few results to cart
+* Expected Result: The user is able to find and add an iPad Pro device with a wireless charging case to their cart successfully
+
+**Test Case 5: Searching for Specific Brands**
+
+* Preconditions: User is logged in to their Amazon account
+* Steps:
+	1. Go to the Amazon search bar and type "Apple iPad Pro"
+	2. Press Enter or click on the search icon
+	3. Verify that relevant results for Apple iPad Pro devices are displayed
+	4. Filter the results by price, brand, or customer reviews
+	5. Add one of the first few results to cart
+* Expected Result: The user is able to find and add an Apple iPad Pro device to their cart successfully
+
+These test cases cover various scenarios such as searching with multiple keywords, searching for related products, using special characters in search queries, and searching for specific brands.

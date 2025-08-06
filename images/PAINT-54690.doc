@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PAINT-54690] [Update-4] - [PACT] Infinitus: Evaluate BI for Autofax - Update Step 1</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://globaljira.roche.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PAINT-54690]&nbsp;<a href="https://globaljira.roche.com/browse/PAINT-54690">[Update-4] - [PACT] Infinitus: Evaluate BI for Autofax - Update Step 1</a>
+            <span class="subText">
+               Created: 14/Jan/25                   &nbsp;Updated: 23/Jan/25
+
+                                                    &nbsp;Resolved: 23/Jan/25
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Resolved</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://globaljira.roche.com/secure/BrowseProject.jspa?id=13859">Patient Access</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                                        <a title="2025 JAN 31"
+                href="https://globaljira.roche.com/issues/?jql=project%3D13859%20AND%20%22fixVersion%22%3D46530%20ORDER%20BY%20priority%20ASC"
+            >2025 JAN 31</a>                        </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Major
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="fitzpate" id="word_reporter_fitzpate" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate">Eric Fitzpatrick</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="fitzpate" id="word_assignee_fitzpate" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate">Eric Fitzpatrick</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Fixed
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-3174560-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            FS_Final, PO_Approved, PO_Pre-Approved, SQA_Required, team#MC                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://globaljira.roche.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    image-2025-01-14-07-25-44-572.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://globaljira.roche.com/images/icons/attach/word.gif" height="16" width="16" border="0" alt="Microsoft Word" role="presentation">
+                    PAINT-54690.docx &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
+                <td id="customfield_10107-3174560-value" class="value" bgcolor="#ffffff" width="80%">    5
+</td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10102-3174560-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-9" href="https://globaljira.roche.com/browse/PAINT-51444">
+        Infinitus: Automate BI Notifications
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10106-3174560-value" class="value" bgcolor="#ffffff" width="80%">2025-s1.1-Motley Crew</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned BSA:</b></td>
+                <td id="customfield_11596-3174560-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?ownerId=JIRAUSER70706&amp;avatarId=15870" alt="Olasumbo Sola-Ilori" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="solailo1" id="user_cf_solailo1">Olasumbo Sola-Ilori</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned DEV:</b></td>
+                <td id="customfield_11432-3174560-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?avatarId=10351" alt="Norbert Lesny" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="lesnyn" id="user_cf_lesnyn">Norbert Lesny</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Assigned SQA:</b></td>
+                <td id="customfield_11597-3174560-value" class="value" bgcolor="#ffffff" width="80%">            <span class="aui-avatar aui-avatar-small"><span class="aui-avatar-inner"><img src="https://globaljira.roche.com/secure/useravatar?ownerId=JIRAUSER70865&amp;avatarId=16120" alt="Divya Jammula" /></span></span>
+        <span class="tinylink">        <span class="user-hover" rel="jammulad" id="user_cf_jammulad">Divya Jammula</span></span>
+    </td>
+            </tr>
+                                                                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Approved By:</b></td>
+                <td id="customfield_11921-3174560-value" class="value" bgcolor="#ffffff" width="80%">      fitzpate
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Approved Date/Time:</b></td>
+                <td id="customfield_14378-3174560-value" class="value" bgcolor="#ffffff" width="80%">            <span title="23/Jan/25 9:35 PM"><time class="livestamp allow-future" datetime="2025-01-23T21:35:25+0100">23/Jan/25 9:35 PM</time></span>
+    </td>
+            </tr>
+                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_11984-3174560-value" class="value" bgcolor="#ffffff" width="80%">    Motley_Crew</td>
+            </tr>
+                                                                                                </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h2><a name=""></a><font color="#de350b">Story Updates </font><font color="#de350b"><a href="https://globaljira.roche.com/browse/PAINT-54072" title="[Update-3] - [PACT] Infinitus: Evaluate BI for Autofax - Update PIE Matching Criteria " class="issue-link" data-issue-key="PAINT-54072"><del>PAINT-54072</del></a></font></h2>
+<h2><a name="Background"></a>Background</h2>
+
+<p><font color="#de350b">100+ BIs were not autofaxed in production with reason that the Payer + Plan Product was not eligible. Based on investigation by DEV in </font>PAINT-54683. <font color="#de350b">it was observed that when looking up payers for the evaluation we use the 'Payer(s), Payer Hour(s)' field which is a text field directly on the SR to find Accounts which have the same name. It turns out there are multiple Accounts with the same name but different record types and these accounts have different usage in PACT. </font></p>
+
+<p><font color="#de350b">The purpose of this story is to update the logic in step 1 to add a condition to only take Accounts with RecordType 'Payer'. </font></p>
+<h2><a name="UserStory%3A"></a>User Story:</h2>
+
+<p>As a<font color="#172b4d"> <b>Reimbursement Specialist</b>,  <b>Reimbursement Planning OR Reimbursement Supervisor</b> I </font>need to identify which BIs are not eligible for autofax so that I can process them accordingly.</p>
+<h2><a name="CurrentState"></a>Current State</h2>
+<ul>
+	<li>Functionality to determine autofax eligibility for Infinitus has been implemented</li>
+</ul>
+
+
+<h2><a name="FutureState"></a>Future State</h2>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-54072" title="[Update-3] - [PACT] Infinitus: Evaluate BI for Autofax - Update PIE Matching Criteria " class="issue-link" data-issue-key="PAINT-54072"><del>PAINT-54072</del></a>+ <font color="#de350b"><b>Details highlighted red</b></font></p>
+<h2><a name="RelatedStories%3A"></a>Related Stories:</h2>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-51612" title="[PACT] Infinitus -Create Autofax Flag on Payer Account" class="issue-link" data-issue-key="PAINT-51612"><del>PAINT-51612</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-51613" title="[PACT] Payer Master: Support Multiple Alpha Prefixes Within a Record" class="issue-link" data-issue-key="PAINT-51613"><del>PAINT-51613</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-51614" title="[PACT] Logic Change - Load PIE on BI Sidebar" class="issue-link" data-issue-key="PAINT-51614"><del>PAINT-51614</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-51615" title="[PACT] Infinitus: Evaluate BI for Auto fax" class="issue-link" data-issue-key="PAINT-51615"><del>PAINT-51615</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-51616" title="[PACT] Infinitus: Autofax BI" class="issue-link" data-issue-key="PAINT-51616"><del>PAINT-51616</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-52283" title="[PACT] Infinitus: Create New Field on BIPA SR - AI Autofax Status" class="issue-link" data-issue-key="PAINT-52283"><del>PAINT-52283</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-4125" title="View/Load PIE on Benefits Investigation Sidebar" class="issue-link" data-issue-key="PAINT-4125"><del>PAINT-4125</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-31768" title="[INFINITUS] AI BI Product - New Object" class="issue-link" data-issue-key="PAINT-31768"><del>PAINT-31768</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-35269" title="[UPDATE] Response Add successful and failed BIs to different Queues - Obtain PA Form updates" class="issue-link" data-issue-key="PAINT-35269"><del>PAINT-35269</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-37549" title="[UPDATE] [Infinitus] -  Provide Prior Authorization Forms " class="issue-link" data-issue-key="PAINT-37549"><del>PAINT-37549</del></a><br/>
+<a href="https://globaljira.roche.com/browse/PAINT-50559" title="[UPDATE-11][Infinitus]Sending &amp; Receiving BI Information to/from Infinitus" class="issue-link" data-issue-key="PAINT-50559"><del>PAINT-50559</del></a></p>
+
+<p><a href="https://globaljira.roche.com/browse/PAINT-50558" title="[UPDATE-10][Infinitus]Sending &amp; Receiving BI Information to/from Infinitus" class="issue-link" data-issue-key="PAINT-50558"><del>PAINT-50558</del></a></p>
+
+<p> </p>
+<h2><a name="FieldConfiguration%2FSTMMapping%3A"></a>Field Configuration / STM Mapping:</h2>
+
+<p>Future State Process Flow for Infinitus - <a href="https://lucid.app/lucidchart/2bc831c7-cd08-483d-8b1d-678643c0aa73/edit?invitationId=inv_3899e7c2-7cf0-4ab5-8f89-8ba704dde13e&amp;page=KYkIgKrS~wt_#" class="external-link" target="_blank" rel="nofollow noopener">https://lucid.app/lucidchart/2bc831c7-cd08-483d-8b1d-678643c0aa73/edit?invitationId=inv_3899e7c2-7cf0-4ab5-8f89-8ba704dde13e&amp;page=KYkIgKrS~wt_#</a></p>
+
+<p>Evaluate BI for Auto fax Process flow - <a href="https://lucid.app/lucidchart/2bc831c7-cd08-483d-8b1d-678643c0aa73/edit?invitationId=inv_3899e7c2-7cf0-4ab5-8f89-8ba704dde13e&amp;page=t.lIR6QTuo7z#" class="external-link" target="_blank" rel="nofollow noopener">https://lucid.app/lucidchart/2bc831c7-cd08-483d-8b1d-678643c0aa73/edit?invitationId=inv_3899e7c2-7cf0-4ab5-8f89-8ba704dde13e&amp;page=t.lIR6QTuo7z#</a></p>
+<h2><a name="TextColorGuide%3A"></a>Text Color Guide:</h2>
+<ul>
+	<li><font color="#ff0000">Text in red</font> has been added as an update to a previously developed Story and AC. The previously developed story and AC should be listed in either the "Prerequisite stories" or the "As-Is state" and "To-Be state" sections.</li>
+	<li><font color="#f79232">Text in orange</font> has been added as a mid-sprint update during the current sprint.</li>
+</ul>
+
+
+<h2><a name="ComplianceImpact%3A%C2%A0%C2%A0"></a>Compliance Impact:  <font color="#0000ff">This section is REQUIRED and will be completed by DEV Team (&amp;BSA)</font></h2>
+
+<p><font color="#172b4d">Any New Objects or New Fields or New Picklist added as part of this story? <b>No</b></font><br/>
+<font color="#172b4d"><b>If Yes</b>, complete the gSheet by filling in all the information in the TAB allocated to the Team</font><br/>
+<a href="https://docs.google.com/spreadsheets/d/1z5pcpA0539bWO5RwtBHpWEGMzCCM1BpWZFnhbZoLcZY/edit#gid=1491914318" class="external-link" target="_blank" rel="nofollow noopener">PACT New Fields / Objects / Picklist Inventory</a></p>
+<h2><a name="Assumptions%3A"></a>Assumptions:</h2>
+<hr />
+<h2><a name="EligibilityCriteriaforAutoFax%3A%C2%A0"></a>Eligibility Criteria for Auto Fax: </h2>
+
+<p><ins><b>Step 1: Payer + Product + Plan is Enabled for Autofax</b></ins></p>
+<ul>
+	<li><font color="#de350b">Look up Payer(s), Payer Hour(s) field on Service Request to identify Payer Name</font></li>
+	<li><font color="#de350b">Search all Accounts in PACT to identify Account Name = Payer Name on SR AND <b>Account Record Type = Payer</b></font></li>
+	<li>If Payer+Product+Plan is enabled for autofax in AI BI Products Related List on Payer Account , then <em><b>BI maybe autofax eligible</b></em></li>
+</ul>
+
+
+<p><ins><b>Step 2: Multiple BI Records With Same Payer Exist= No</b></ins><br/>
+In order for the Service Request to be eligible for autofax, there must be ONLY one Infinitus BI completed for a payer. If there is more than one BI record on the service request <b>with same payer</b>, then <em><b>all BIs within the service request <ins>that have same payer</ins> are not eligible for autofax.</b></em></p>
+
+<p>If there is only one BI record for a  payer on the service request, the <em>BI</em> <em><b>maybe autofax eligible</b></em></p>
+
+<p><b><ins>Step 3: Insurance Rank</ins></b></p>
+
+<p><font color="#172b4d"><b>Single BI - Not eligible for autofax IF insurance rank on BI != Primary</b></font></p>
+
+<p><font color="#172b4d"><b>Multiple BIs - Not eligible for autofax IF</b></font></p>
+<ul>
+	<li><font color="#172b4d"><b>There is no BI with insurance rank = Primary OR</b> </font></li>
+	<li><font color="#172b4d"><b>There is more than one BI with insurance rank = primary</b> </font></li>
+</ul>
+
+
+<p> </p>
+
+<p><font color="#172b4d"><ins><b>Step 4: Diagnosis code is Active and FDA Approved</b></ins></font><br/>
+<font color="#172b4d">If diagnosis code captured on <b>Infinitus</b> BI record <b>(ie. BI Method = AI)</b> (Field-Vendor Diagnosis code for BI) exists for the Product in DDS Service Eligibility record with 'Record status' = "Active" and 'FDA Approved' picklist value is "Yes", <em><b>this implies Diagnosis code is on label and BI maybe autofax eligible</b></em></font></p>
+<h4><a name=""></a><font color="#172b4d"><ins><b>Step 5: PC BI Status</b></ins> </font></h4>
+
+<p><font color="#172b4d"><b><em>BI maybe autofax eligible</em></b> if BI Status on Product Coverage record <b>!=</b> </font></p>
+<ul>
+	<li><font color="#172b4d">Exclusion-Diagnosis OR</font></li>
+	<li><font color="#172b4d">Exclusion-Drug OR</font></li>
+	<li><font color="#172b4d">Insurance Terminated OR</font></li>
+	<li><font color="#172b4d">No Benefit OR</font></li>
+	<li><font color="#172b4d">Denied </font></li>
+</ul>
+
+
+<h4><a name=""></a><font color="#172b4d"><ins><b>Step 6: PIE Loaded on BI Sidebar = Yes or No</b></ins></font></h4>
+
+<p><font color="#172b4d">If there's a PIE record loaded on BI sidebar based on logic in <a href="https://globaljira.roche.com/browse/PAINT-51614" title="[PACT] Logic Change - Load PIE on BI Sidebar" class="issue-link" data-issue-key="PAINT-51614"><del>PAINT-51614</del></a>. <em><b>then BI maybe eligible for autofax</b></em></font></p>
+
+<p><font color="#172b4d">If there's <ins><b>no</b></ins> PIE record loaded on BI sidebar based on logic in <em><a href="https://globaljira.roche.com/browse/PAINT-51614" title="[PACT] Logic Change - Load PIE on BI Sidebar" class="issue-link" data-issue-key="PAINT-51614"><del>PAINT-51614</del></a>. <b>then BI maybe eligible for autofax</b></em></font></p>
+<h4><a name=""></a><font color="#172b4d"><ins><b>Step 7: PI/Alpha Prefix and BI Results Match</b></ins> </font></h4>
+
+<p><font color="#172b4d">For each of the BI fields below, compare the value in Column C in screenshot below (from BI record) and value in Column E in screenshot below (from loaded PIE on sidebar account). If the values match for <ins><b>ALL the applicable</b></ins> fields below, <em><b>BI maybe eligible for autofax</b></em></font></p>
+<ul>
+	<li><font color="#172b4d"><b>Prior Auth Required AND PA Status</b> <b>(matching values may be found in lines 2-3 below)</b></font></li>
+	<li><font color="#172b4d">Prior Auth Required <b>(matching values may be found in lines 4-5 below)</b></font></li>
+	<li><font color="#172b4d">PreDetermination <b>(matching values may be found in lines 6-9 below)</b></font></li>
+	<li><font color="#172b4d">Step Edit <b>(matching values may be found in lines 10-11 below)</b></font></li>
+	<li><font color="#172b4d">PCP Referral Required? Exclude for PPO <b>(matching values may be found in lines 12-13 below)</b></font></li>
+	<li><font color="#172b4d">Buy and Bill <b>(matching values may be found in lines 14-17 below)</b></font></li>
+</ul>
+
+
+<p><font color="#172b4d"><b>Note:</b> </font></p>
+<ul>
+	<li><font color="#172b4d"><b>Where there is no prior authorization record, assume Step Edit = No</b></font></li>
+	<li><b>Do not consider "NULL" value when matching for PreD</b></li>
+</ul>
+
+
+<p><span class="image-wrap" style=""><img src="https://globaljira.roche.com/secure/attachment/2158389/2158389_image-2025-01-14-07-25-44-572.png" height="445" width="928" style="border: 0px solid black" /></span></p>
+<h4><a name=""></a><font color="#172b4d"><ins><b>Step 8: Additional PC Records on BI</b></ins> </font></h4>
+
+<p><font color="#172b4d">Check if there are additional PC records on BI. <b>All additional PC records have to be evaluated from step 3 before BI eligibility can be determined</b></font></p>
+<h4><a name=""></a><font color="#172b4d"><ins><b>Step 9: Additional BI Records with Different Payer on SR</b></ins></font></h4>
+
+<p>Check if there are additional BI records with different payer on SR. <b>All additional BI records (with different payer) have to be evaluated from step 3 before BI eligibility can be determined</b></p>
+<h2><a name="AcceptanceCriteria%3A%C2%A0"></a>Acceptance Criteria: </h2>
+<h4><a name="AcceptanceCriteria1%3ASystemInitiatesAutofaxEvaluationIn5Scenarios"></a><b>Acceptance Criteria 1: System Initiates Autofax Evaluation In 5 Scenarios</b></h4>
+
+<p>Given: Service.Request_Type = <b>Benefits Investigation/Prior Authorization</b><br/>
+And: SR Owner = <b>Approval Request</b><br/>
+And: SR.Status = <b>Review BI</b><br/>
+And: BI.status= <b>Completed</b><br/>
+And: SR.AI Status = <b>Successful</b><br/>
+Then: System initiates Autofax evaluation process in the 5 scenarios below</p>
+
+<p><font color="#172b4d"><b>Note: If an SR meets the criteria above but does not have a BI that matches any of the scenarios below, stamp "<ins>Not eligible: Not enabled for Evaluation</ins>" in AI Autofax Status on SR</b></font></p>
+
+<p> </p>
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'>Scenario </th>
+<th class='confluenceTh'><b>Prior Auth required</b></th>
+<th class='confluenceTh'><b>Does Prior Auth Type on Product Coverage record Contain Form ?</b></th>
+<th class='confluenceTh'>PA Status <b>on<font color="#172b4d"> Prior Authorization</font></b> </th>
+<th class='confluenceTh'><b>PA.Recertification Date is 6 weeks or Less</b> </th>
+<th class='confluenceTh'>New Insurance Found</th>
+<th class='confluenceTh'><b>Is a Document record with Document Type = "Prior Authorization Form" attached to the SR?</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A</font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = <b><ins>No</ins> for <ins>ALL</ins></b> Product Coverage records under the BI</font></td>
+<td class='confluenceTd'><font color="#172b4d">-</font></td>
+<td class='confluenceTd'><font color="#172b4d">-</font></td>
+<td class='confluenceTd'><font color="#172b4d">-</font></td>
+<td class='confluenceTd'>NO</td>
+<td class='confluenceTd'>-</td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">B</font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = <b><ins>Yes</ins></b> for <ins><b>at least one</b></ins> Product Coverage record under the BI</font></td>
+<td class='confluenceTd'><font color="#172b4d">NO (<b>on all PC records in BI where Prior Auth required = YES)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">-</font></td>
+<td class='confluenceTd'><font color="#172b4d">-</font></td>
+<td class='confluenceTd'>NO</td>
+<td class='confluenceTd'>-</td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">C</font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = <b><ins>Yes</ins></b> for <ins><b>at least one</b></ins> Product Coverage record under the BI</font></td>
+<td class='confluenceTd'><font color="#172b4d">Yes (<b>on all PC records in BI where Prior Auth required = YES)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">Value != Approved (<b>on all PA records in BI where Prior Auth required = YES on PC)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">-</font></td>
+<td class='confluenceTd'>NO</td>
+<td class='confluenceTd'>YES</td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">D</font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = <b><ins>Yes</ins></b> for <ins><b>at least one</b></ins> Product Coverage record under the BI</font></td>
+<td class='confluenceTd'><font color="#172b4d">Yes (<b>on all PC records in BI where Prior Auth required = YES)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = Approved (<b>on all PA records in BI where Prior Auth required = YES on PC)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">NO (On <b>all Prior Authorization records in BI where Prior Auth required = YES on PC)</b></font></td>
+<td class='confluenceTd'>NO</td>
+<td class='confluenceTd'>-</td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">E</font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = <b><ins>Yes</ins></b> for <ins><b>at least one</b></ins> Product Coverage record under the BI</font></td>
+<td class='confluenceTd'><font color="#172b4d">Yes (<b>on all PC records in BI where Prior Auth required = YES)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">Value = Approved (<b>on all PA records in BI where Prior Auth required = YES on PC)</b></font></td>
+<td class='confluenceTd'><font color="#172b4d">YES (On <b>all Prior Authorization records in BI where Prior Auth required = YES on PC)</b></font></td>
+<td class='confluenceTd'>NO</td>
+<td class='confluenceTd'>YES</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p> </p>
+<h4><a name="AcceptanceCriteria2%3AEvaluateBIforAutofax"></a><b>Acceptance Criteria 2: Evaluate BI for Autofax</b></h4>
+
+<p>Given: Scenario A or B or C or D or E occurs based on AC1</p>
+
+<p>Then: Each BI record within the Service Request is evaluated for auto fax based on logic below <b>(Refer to evaluation criteria section for step details)</b></p>
+
+<p> </p>
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'><b>Scenarios</b></td>
+<td class='confluenceTd'><b>Evaluation Step</b></td>
+<td class='confluenceTd'><b>Eligible for Autofax</b></td>
+<td class='confluenceTd'><b>Not Eligible for Autofax</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>A,B,C,D,E</td>
+<td class='confluenceTd'>1</td>
+<td class='confluenceTd'><b>Autofax evaluation is incomplete</b><br/>
+Go to Step 2</td>
+<td class='confluenceTd'>Stamp AI Autofax Status on SR =<b>Not eligible: Not enabled for autofax</b><br/>
+ <br/>
+<b>Autofax evaluation is complete</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>A,B,C,D,E</td>
+<td class='confluenceTd'>2</td>
+<td class='confluenceTd'><b>Autofax evaluation is incomplete</b><br/>
+Go to Step 3</td>
+<td class='confluenceTd'>Stamp AI Autofax Status on SR = <b>Not eligible: Dual Diagnosis Codes</b><br/>
+ <br/>
+<b>Autofax evaluation is complete</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">3</font></td>
+<td class='confluenceTd'><font color="#172b4d"><b>Autofax evaluation is incomplete</b></font><br/>
+<font color="#172b4d">Go to Step 4</font></td>
+<td class='confluenceTd'><font color="#172b4d">Stamp AI Autofax Status on SR = <b>Not eligible: Insurance Rank</b></font><br/>
+<font color="#172b4d"> </font><br/>
+<font color="#172b4d"><b>Autofax evaluation is complete</b></font></td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">4</font></td>
+<td class='confluenceTd'><font color="#172b4d"><b>Autofax evaluation is incomplete</b></font><br/>
+<font color="#172b4d">Go to Step 5</font></td>
+<td class='confluenceTd'>Stamp AI Autofax Status on SR = <b>Not eligible: <font color="#172b4d">Diagnosis</font></b><br/>
+ <br/>
+<b>Autofax evaluation is complete</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">5</font></td>
+<td class='confluenceTd'><font color="#172b4d"><b>Autofax evaluation is incomplete</b></font><br/>
+<font color="#172b4d">Go to Step 6</font></td>
+<td class='confluenceTd'>Stamp AI Autofax Status on SR = <b>Not eligible: BI Status &lt;BI Status&gt;</b><br/>
+ <br/>
+<b>Autofax evaluation is complete</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">6</font></td>
+<td class='confluenceTd'><font color="#172b4d">If PIE is loaded on BI sidebar, <b>Autofax evaluation is incomplete.</b> Go to Step 7</font><br/>
+<font color="#172b4d"> </font><br/>
+<font color="#172b4d">If no PIE is loaded on BI sidebar, <b>Autofax evaluation is incomplete</b>. Go to Step 8</font></td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">7</font></td>
+<td class='confluenceTd'><font color="#172b4d"><b>Autofax evaluation is incomplete</b>. Go to Step 8</font></td>
+<td class='confluenceTd'>Stamp AI Autofax Status on SR = <b>Not eligible: PIE Conflict</b><br/>
+ <br/>
+<b>Autofax evaluation is complete</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">8</font></td>
+<td class='confluenceTd'>No additional PC records, <b>Autofax evaluation is incomplete</b>. Go to Step 9<br/>
+ <br/>
+If additional PC records, <b>Autofax evaluation is incomplete</b>. Go to step 4</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'><font color="#172b4d">A,B,C,D,E</font></td>
+<td class='confluenceTd'><font color="#172b4d">9</font></td>
+<td class='confluenceTd'>No additional BI records, <b>BI is confirmed eligible for autofax</b> and <b>Autofax evaluation is complete</b><br/>
+ <br/>
+If additional BI records, <b>Autofax evaluation is incomplete.</b> Go to step 4</td>
+<td class='confluenceTd'> </td>
+</tr>
+</tbody></table>
+</div>
+
+<h4><a name="%C2%A0"></a> </h4>
+<h4><a name="AcceptanceCriteria3%3AStampAIAutofaxStatusonSRWhenEvaluationIsCompleted"></a><b>Acceptance Criteria 3: Stamp AI Autofax Status on SR When Evaluation Is Completed</b></h4>
+
+<p>Given AC2 occurs</p>
+
+<p>When: Autofax evaluation is complete</p>
+
+<p>And: BI is confirmed eligible for autofax</p>
+
+<p>Then: Stamp the status below on the SR - <b>AI Autofax Status</b></p>
+
+<p> </p>
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'>Condition 1 - Step 5</th>
+<th class='confluenceTh'>Condition 2 - Step 6</th>
+<th class='confluenceTh'>Condition 2 - Step 8</th>
+<th class='confluenceTh'>AI Autofax Status</th>
+</tr>
+<tr>
+<td class='confluenceTd'>No matching PIE loaded on sidebar</td>
+<td class='confluenceTd'>-</td>
+<td class='confluenceTd'>No additional BI records</td>
+<td class='confluenceTd'><b>Success: No PIE</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>Matching PIE record loaded on sidebar </td>
+<td class='confluenceTd'>PIE matches BI results from Infinitus</td>
+<td class='confluenceTd'>No additional BI records</td>
+<td class='confluenceTd'><b>Success: PIE Match</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>Matching PIE record loaded on sidebar </td>
+<td class='confluenceTd'>PIE matches BI results from Infinitus</td>
+<td class='confluenceTd'>Additional BI record exists on SR with no matching PIE loaded on sidebar</td>
+<td class='confluenceTd'><b>Success: Partial PIE match</b></td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p><font color="#172b4d"><b>Note: If an SR meets the criteria in AC1 but does not have a BI that matches any of the scenarios in AC1, stamp "<ins>Not eligible: Not enabled for Evaluation</ins>" in AI Autofax Status on SR</b></font></p>
+
+<p> </p>
+<h2><a name="TestingNotes%3A%C2%A0"></a>Testing Notes: </h2>
+
+<p><font color="#de350b">Scenarios for testing: Refer to PO comments</font></p>
+
+<p> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-5415594"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="fitzpate" id="word_commented_fitzpate" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate">Eric Fitzpatrick</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">23/Jan/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5415594"><td bgcolor="#ffffff">
+            <p>PO DEMO: Approved </p>
+        </td></tr>
+                <tr id="comment-header-5415593"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="jammulad" id="word_commented_jammulad" href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=jammulad">Divya Jammula</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">20/Jan/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-5415593"><td bgcolor="#ffffff">
+            <p>Hi Team,</p>
+
+<p>Testing has been completed in PPSQA and is working as expected. Kindly refer the attached document.<br/>
+ <span class="nobr"><a href="https://globaljira.roche.com/secure/attachment/2158388/2158388_PAINT-54690.docx" title="PAINT-54690.docx attached to PAINT-54690">PAINT-54690.docx<sup><img class="rendericon" src="https://globaljira.roche.com/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> </p>
+
+<p>c; <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=shchasna" class="user-hover" rel="shchasna">Aksana Shchasnaya</a>, <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=solailo1" class="user-hover" rel="solailo1">Olasumbo Sola-Ilori</a>, <a href="https://globaljira.roche.com/secure/ViewProfile.jspa?name=fitzpate" class="user-hover" rel="fitzpate">Eric Fitzpatrick</a></p>
+        </td></tr>
+            </table>
+Generated at Wed Apr 09 10:09:30 CEST 2025 by Divya Jammula using Jira 9.11.2#9110002-sha1:a4cc5ff040b70da0f2b22013ede8c2b2c19f3ae5.
+
+</body>
+</html>

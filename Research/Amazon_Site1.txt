@@ -1,0 +1,14 @@
+Amazon Site
+
+URL: https://www.amazon.in/
+
+UserStory: Check the Functionality of Search bar with multiple inputs
+
+Acceptence Critiria1: Search for iPadpro and add it to cart
+
+TestSteps: 1.Login to Amazon 2.Search for iPad Pro devices 3.filter the first result and add it to cart
+
+Acceptence Critiria2: Search for Samsung TV and add it to cart
+
+TestSteps: 1.Login to Amazon 2.Search for Samsung TV Pro devices 3.filter the first result and add it to cart
+

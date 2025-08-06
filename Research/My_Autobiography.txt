@@ -1,0 +1,7 @@
+My Autobiography:-
+
+Hi My name is matter, i lives in Texas with my family, am graduate engineer working in Reputed Software company with decent package. i would like to explore the world during my holidays, am happy with what ever i have.
+My native was India, my grandparent where from Hyderabad City of Telangana State, i would like to visit Hyderabad in next couple of months to experience my grandparents lifestyle happy to see interact with you all thank you.
+Test Objective:
+When user creates the Inquiry with Inquiry Type as MEDCOMM for the HCP Customer Type and mark it to the TISL Escalation then verify the below people receive an Email after 196 hours (4 days) with tbe below specifications:
+
